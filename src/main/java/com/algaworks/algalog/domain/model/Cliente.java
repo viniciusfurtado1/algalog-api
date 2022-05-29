@@ -37,5 +37,4 @@ public class Cliente {
 	@Size(max = 20)
 	@Column(name = "fone")
 	private String telefone;
-
 }
